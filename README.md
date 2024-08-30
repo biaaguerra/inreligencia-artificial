@@ -1,1 +1,1 @@
-# inreligencia-artificial
+# inteligencia-artificial
